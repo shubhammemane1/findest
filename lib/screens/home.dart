@@ -20,7 +20,7 @@ class Home extends StatelessWidget {
                 scale: 3,
               ),
               Image.asset(
-                "assets/images/name.png",
+                "assets/images/name.png", 
                 scale: 3,
               ),
               Text(
